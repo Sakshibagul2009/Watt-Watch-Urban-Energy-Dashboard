@@ -1,3 +1,4 @@
+
 # ⚡ Watt Watch – Urban Energy Consumption Dashboard
 
 ### Smart Energy • Sustainable Tomorrow 🌱
@@ -10,7 +11,7 @@ The dashboard helps understand **energy consumption trends across different zone
 
 ## 📊 Dashboard Preview
 
-![Watt Watch Dashboard](dashboard.png)
+<img width="1331" height="745" alt="Screenshot 2026-09-09 151432" src="https://github.com/user-attachments/assets/684de88d-b0c3-441d-85fb-d64ac844f43a" />
 
 ---
 
@@ -110,7 +111,7 @@ Watt Watch can help energy management teams to:
 
 ## 👩‍💻 Author
 
-### **Harshala Bagul**
+### **Sakshi Bagul**
 
 📊 Power BI | Data Analytics | Data Visualization
 
