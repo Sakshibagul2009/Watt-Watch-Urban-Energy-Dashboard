@@ -1,0 +1,15 @@
+Energy Findings – Watt Watch Dashboard
+
+1. Central Zone has the highest estimated energy cost at approximately 12.4M, indicating a need for closer monitoring and energy-efficiency initiatives.
+
+2. Industrial consumers account for the largest share of energy usage (48.14%), making industrial energy optimization a key opportunity for reducing overall consumption.
+
+3. Meter M040937 is the highest energy-consuming meter with 716 KWh, so it should be prioritized for consumption monitoring and efficiency checks.
+
+4. Central Zone records the highest outage duration at approximately 353K minutes, suggesting that infrastructure and reliability improvements should be prioritized in this zone.
+
+5. Energy consumption shows noticeable monthly variations, highlighting the importance of continuous trend monitoring for demand planning and resource allocation.
+
+6. South and West zones show comparatively lower estimated costs than Central and East, providing an opportunity to identify and replicate efficient consumption practices.
+
+7. Regular monitoring of high-consumption meters, outage-prone zones, and industrial consumers can help reduce energy costs, improve reliability, and support sustainable urban energy management.
